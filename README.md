@@ -4,7 +4,7 @@
 
 📫 How to reach me: @fahyvor
 
-💬 Ask me about: Solidity, Web Development and Graphics/Product Branding.
+💬 Ask me about: Solidity, Web and Mobile Development.
 
 <!---
 Fahyvor/Fahyvor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
