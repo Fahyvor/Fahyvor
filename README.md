@@ -1,4 +1,4 @@
-👋 Hi, I’m Favour Okafor, a Developer, enthusiastic professional with versatility and expeience spanning accross Blockchain, Web, Mobile Application Development and Open Source Contributions.
+👋 Hi, I’m Favour Okafor, a Developer, enthusiastic professional with versatility and expeience spanning accross Blockchain, Web, Development and Open Source Contributions.
 
 👀 I’m interested in providing solutions to real world problems in Technology and every other field I can.
 
