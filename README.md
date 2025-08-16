@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Favour Okafor
 ========================================================================================================================================
 
-I have been coding for 5 years
+I have been building for 5 years
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [favourokafor30@gmail.com](mailto:favourokafor30@gmail.com)
@@ -45,11 +45,3 @@ src="https://img.shields.io/github/followers/fahyvor?logo=github&style=for-the-b
 
 
 <a href="http://www.github.com/fahyvor"><img src="https://activity-graph.herokuapp.com/graph?username=fahyvor&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Fahyvor" align="left">
-</a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahyvor)](https://github.com/anuraghazra/github-readme-stats)
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/fahyvor"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
