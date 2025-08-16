@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have been coding for 5 years
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [favourapps17@gmail.com](mailto:favourokafor30@gmail.com)
+* ✉️  You can contact me at [favourokafor30@gmail.com](mailto:favourokafor30@gmail.com)
 * 🧠  I'm currently building web3 projects 
 * 🤝  I'm open to collaborating on Open source projects
 
